@@ -1,0 +1,1 @@
+This is my first GDI class and my first time really using git.
