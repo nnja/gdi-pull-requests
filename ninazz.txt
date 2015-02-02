@@ -1,0 +1,5 @@
+git add ninazz.txt
+
+git commit -m “my message”
+
+git push
